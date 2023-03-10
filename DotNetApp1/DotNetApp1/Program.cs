@@ -1,6 +1,6 @@
-﻿Console.WriteLine("Enter Upper limit number (n): ");
+﻿Console.Write("Enter Upper limit number (n): ");
 int n = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("\n");
+
 for (int i = 1; i <= n; i++)
 {
     if (i % 3 == 0 && i % 5 == 0)
