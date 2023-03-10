@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\DotNet\\MyFirstDotNetApp\\DotNetApp1\\DotNetApp1\\DotNetApp1.csproj",
+      "projectUniqueName": "C:\\Users\\mehul\\Source\\Repos\\DotNet_repo\\DotNetApp1\\DotNetApp1\\DotNetApp1.csproj",
       "projectName": "DotNetApp1",
-      "projectPath": "D:\\Study\\DotNet\\MyFirstDotNetApp\\DotNetApp1\\DotNetApp1\\DotNetApp1.csproj",
+      "projectPath": "C:\\Users\\mehul\\Source\\Repos\\DotNet_repo\\DotNetApp1\\DotNetApp1\\DotNetApp1.csproj",
       "packagesPath": "C:\\Users\\mehul\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\DotNet\\MyFirstDotNetApp\\DotNetApp1\\DotNetApp1\\obj\\",
+      "outputPath": "C:\\Users\\mehul\\Source\\Repos\\DotNet_repo\\DotNetApp1\\DotNetApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
